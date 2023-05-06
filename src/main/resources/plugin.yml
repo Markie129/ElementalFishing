@@ -1,0 +1,4 @@
+name: ElementalFishing
+version: '${project.version}'
+main: com.elementalfishing.ElementalFishing
+api-version: 1.18
